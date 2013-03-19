@@ -1,0 +1,26 @@
+{
+  "name": "dropbox-cache",
+  "description": "Read through cache for accessing dropbox contents.",
+  "version": "0.0.1alpha",
+  "main": "./cache.js",
+  "author": {
+    "name": "Thomas Coats"
+  },
+  "maintainers": [
+    {
+      "name": "Thomas Coats",
+      "email": "github@voodoolabs.net"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcoats/dropbox-cache.git"
+  },
+  "homepage": "https://github.com/tcoats/dropbox-cache",
+  "dependencies": {
+    "dropbox": "0.x",
+    "underscore": "1.x",
+    "tapinto": "0.x",
+    "memory-cache": "0.x"
+  }
+}
