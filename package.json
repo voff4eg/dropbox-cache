@@ -1,7 +1,7 @@
 {
   "name": "dropbox-cache",
   "description": "Read through cache for accessing dropbox contents.",
-  "version": "0.0.1alpha",
+  "version": "0.0.2alpha",
   "main": "./cache.js",
   "author": {
     "name": "Thomas Coats"
